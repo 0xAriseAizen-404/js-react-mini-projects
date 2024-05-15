@@ -4,17 +4,32 @@ This repository contains a collection of 23 minor React projects that cover vari
 
 ## Projects
 
-<react-app>
-1. Project Name: Todo List  
-Description: A simple Todo List application that allows you to add, delete, and mark tasks as complete.
-</react-app>
+| Project No. | Project Name       | Project Description                              |
+|-------------|--------------------|---------------------------------------------------|
+| 01          | Birthday Reminder  | A project for remembering birthdays.             |
+| 02          | Tours              | A project related to arranging tours.            |
+| 03          | Reviews            | A project for managing and displaying reviews.   |
+| 04          | Accordion          | A project involving accordion-style UI elements. |
+| 05          | Menu               | A project for creating interactive menus.       |
+| 06          | Tabs               | A project for organizing content with tabs.      |
+| 07          | Slider             | A project featuring image sliders.               |
+| 08          | Lorem Ipsum        | A project generating Lorem Ipsum text.           |
+| 09          | Color Generator    | A project for generating colors.                 |
+| 10          | Grocery Bud        | A project related to managing groceries.        |
+| 11          | Navbar             | A project for creating navigation bars.         |
+| 12          | Sidebar Modal      | A project featuring sidebar modals.              |
+| 13          | Stripe Submenus    | A project involving submenu navigation.          |
+| 14          | Cart               | A project for managing shopping carts.           |
+| 15          | Cocktails          | A project related to cocktails or drinks.        |
+| 16          | Markdown Preview   | A project for previewing Markdown content.       |
+| 17          | Random Person      | A project for generating random person profiles.|
+| 18          | Pagination         | A project involving pagination of content.       |
+| 19          | Stock Photos       | A project for accessing and managing stock photos.|
+| 20          | Dark Mode          | A project for implementing dark mode.           |
+| 21          | Movie DB           | A project for accessing movie databases.        |
+| 22          | Hacker News        | A project for accessing Hacker News data.        |
+| 23          | Quiz               | A project for creating quizzes.                  |
 
-<react-app>
-2. Project Name: Weather App
-Description: A weather application that fetches and displays the current weather data for a specified location.
-</react-app>
-
-<!-- Add descriptions for the remaining 21 projects here -->
 
 ## Getting Started
 
